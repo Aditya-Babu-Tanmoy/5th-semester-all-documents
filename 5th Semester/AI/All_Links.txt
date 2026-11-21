@@ -1,0 +1,127 @@
+Simple Reflex Agent:
+https://youtu.be/KZFfbebQPAU?si=9x1FqUVs5vxCbW3l
+
+Model Based Reflex Agent:
+https://youtu.be/xKxh3fQwU8E?si=kcc-XcGN7ulblRBk
+
+Goal Based Agent:
+https://youtu.be/HsdiMkKnNLk?si=wlS2-nZovYB0F66W
+
+Utility based Agent:
+https://youtu.be/e-egxFtAF_4?si=bwmqNzcygOgArxAA
+Or,
+You can watch:
+https://youtu.be/gpZ1yPQ5-5I?si=jUY5Db_rC4_bOlI2
+
+
+BFS:
+1.https://youtu.be/qul0f79gxGs?si=tjqpWUdnG-kC3ax5
+2.https://youtu.be/N2P7w22tN9c?si=rnk0OGv0jrtP9wcc
+
+DFS:
+1.https://youtu.be/f8luGFRtshY?si=ShIK3amfTu-gNthr
+2.https://youtu.be/N2P7w22tN9c?si=rnk0OGv0jrtP9wcc
+
+UCS:
+1.https://youtu.be/w5Xawyfrf0s?si=QNROXvtyH-iHbfnN
+2.https://youtu.be/8ofimg8cnRE?si=xfgZ47AZqFg5BPdw (Better explanation)
+
+Heuristic Search and function:
+1.https://youtu.be/4LtQHKuR-LI?si=ZzpIN-LkT31e_K9T ( Bangla)
+2.https://youtu.be/japhjrVxJdg?si=Zb5XU44ln3_iHBuy (Hindi)
+
+Greedy Best first search / Best first search :
+1.https://youtu.be/7ffDUDjwz5E?si=LVQoxDwfqTlnlSYJ
+2.https://youtu.be/GVvN0ikNekw?si=J_wKvOoNxQmFnSsN
+3.https://youtu.be/4MRClojLmEc?si=WQ_0yDgRmcsUDqx1
+
+A* Search:
+1.https://youtu.be/tvAh0JZF2YE?si=Q430Dii6cmhRw5gG
+2.https://youtu.be/lusRf5v-TI0?si=dKofKvw1LZ9Qvtgq
+
+Hill climbing search:
+1.https://youtu.be/1w-2fJAYNmE?si=8OWMWwznsvbuQEU6
+
+2.https://youtu.be/2SlO34_VsY4?si=EkKp3gn3Z-oqDzt2
+
+3.https://youtu.be/wM4n12FHelM?si=49exyLyKW0gLb8tz
+
+
+Game Theory:
+https://youtu.be/FFzdXJ49KAI?si=eyD08OuIcFH_JO1p
+
+Min-Max:
+1.https://youtu.be/Ntu8nNBL28o?si=TNmG8MxijT149y8v
+2.https://youtu.be/tDv7lrklaQE?si=km5rxP4weHqgdfn1
+
+Alpha-Beta pruning:
+1.https://youtu.be/dEs_kbvu_0s?si=m79LedzcTjLFrnhv
+2.https://youtu.be/9D1hVGumxCo?si=jm1q23TEwlkTi3Yi
+
+
+Propositional Logic:
+1. https://youtu.be/6490tKrGEic?si=Fj4im9FqA7e3hJWn
+
+2. https://youtu.be/HcS4lqXxrV4?si=t3hSvCfAbIhyQH16
+
+
+
+NLP basic:
+https://youtu.be/bPpwZxasJo0?si=LOm_zwC1PHdqr4m_
+
+Expert system basic:
+https://youtu.be/bZ0R8bTCeaQ?si=eiQm9EO3F23QDX-8
+
+https://youtu.be/T3cOU_ljfr8?si=B_iZgqahGOfmF2tw
+
+
+Fuzzy logic:
+1. https://youtu.be/vof2vhfqoBo?si=xNFKVIxgiv8RCIkR
+
+2. https://youtu.be/2VitSeNpdJg?si=wqoN9EaE7eAOJvKI
+
+
+
+Predicate logic/ First order logic:
+1. https://youtu.be/FpGeg27Ffk8?si=K8LF1AS3jECK4P-N
+
+2. https://youtu.be/tFYngFwDuJQ?si=lF7-H4iZaeCuf-k1
+
+3. https://youtu.be/Aw3EOSr64j0?si=zQMRMDihVEISR8lR
+
+
+Markov Chain:
+1. https://youtu.be/i3AkTO9HLXo?si=LaOD7iM1Ik3CL4yN
+
+2. https://youtu.be/qrJAmnNzncA?si=DSWuIGFaYv8-3KLa
+
+
+
+Genetic Algorithm:
+
+1. https://youtu.be/96-u9s6D16k?si=dryADGiIZNSRLDD1
+
+2. https://youtu.be/FwPgHgbncPk?si=wRQuGukdedptRVHc
+
+3. https://youtu.be/f0bGSPo5aJk?si=Vi0MiClp4H6MKiMm
+
+
+Game Theory:
+https://youtu.be/FFzdXJ49KAI?si=eyD08OuIcFH_JO1p
+
+Min-Max:
+1.https://youtu.be/Ntu8nNBL28o?si=TNmG8MxijT149y8v
+2.https://youtu.be/tDv7lrklaQE?si=km5rxP4weHqgdfn1
+
+Alpha-Beta pruning:
+1.https://youtu.be/dEs_kbvu_0s?si=m79LedzcTjLFrnhv
+2.https://youtu.be/9D1hVGumxCo?si=jm1q23TEwlkTi3Yi
+
+
+Bayesian Network:
+1. https://youtu.be/hEZjPZ-Ze0A?si=XK6AD8mVIxnCOLYy
+
+2. https://youtu.be/iz7Kl2gcmlk?si=gUaKjcF2MyDEvSEx
+
+3. https://youtu.be/DVnubVOjZtg?si=GFxLtnO5ym9Z2_dW
+
